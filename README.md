@@ -9,7 +9,7 @@ C++/OpenGL
 #### MOIROUX Jean-Jacques @ 42 Born2code
 - jjmoiroux@gmail.com
 - twitter.com/jjmoiroux
-- [www.noxs.net]
+- www.noxs.net
 
 #### JACQUIER Vincent @ 42 Born2code
 - vin.jacquier@gmail.com
